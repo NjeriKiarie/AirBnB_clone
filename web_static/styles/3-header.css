@@ -1,0 +1,13 @@
+header {
+	color: #FFFFFF;
+	background-color: #FF0000;
+	Height: 70px;
+	Width: 100%;
+	border-bottom-color: #CCCCCC;
+	text-align: center;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	background-image: url("../image/logo.png");
+	background-attachment: local;
+	background-position: 20px 50%;
+}
